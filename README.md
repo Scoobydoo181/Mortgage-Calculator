@@ -1,2 +1,2 @@
 # mortgage-calculator
-A project written in C (to be refactored into java soon) that amortizes a mortgage and outputs relevant data
+A project initially written in C that has since been migrated to Java in order to take advantage of Swing's UI functionality. This program amortizes a mortgage and outputs the monthly payment and total cost.
